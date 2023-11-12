@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nku_addressbook_tests_autoit", "nku_addressbook_tests_autoit\nku_addressbook_tests_autoit.csproj", "{94C3BA37-28AD-4FEC-B451-0836E239ED97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C3BA37-28AD-4FEC-B451-0836E239ED97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C3BA37-28AD-4FEC-B451-0836E239ED97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C3BA37-28AD-4FEC-B451-0836E239ED97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C3BA37-28AD-4FEC-B451-0836E239ED97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12BDF509-5A3E-4415-808F-CED93AB2FA25}
+	EndGlobalSection
+EndGlobal
